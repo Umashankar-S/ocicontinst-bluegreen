@@ -10,6 +10,9 @@
  - OCI function (Reference Repo )
  - Manual Update of ORM Stack
 
+## Architecture 
+<img width="1089" height="553" alt="image" src="https://github.com/user-attachments/assets/e605c7c5-425f-4628-9885-e9d9ace6ef8e" />
+
 
 ## Prerequisites
 
