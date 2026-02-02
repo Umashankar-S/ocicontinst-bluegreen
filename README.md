@@ -11,7 +11,8 @@
  - Manual Update of ORM Stack
 
 ## Architecture 
-<img width="1089" height="553" alt="image" src="https://github.com/user-attachments/assets/e605c7c5-425f-4628-9885-e9d9ace6ef8e" />
+
+<img width="1098" height="583" alt="image" src="https://github.com/user-attachments/assets/487f0cf8-5683-47d3-b9c2-0c7cb66f9cf6" />
 
 
 ## Prerequisites
